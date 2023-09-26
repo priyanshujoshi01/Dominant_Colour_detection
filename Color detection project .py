@@ -127,8 +127,8 @@ plt.show()
 # Print the RGB values of the dominant color
 print(f"Dominant Color (RGB): {most_dominant_color}")
 
-so we can use our Dominant colour insight in a diff way -
+'''so we can use our Dominant colour insight in a diff way -
 1- in graphic design and branding, we can analyze the dominant colors in images or logos associated with a brand. This analysis can help ensure consistency in color schemes across marketing materials and products.
 2-In the fashion industry, understanding color trends and the dominant colors in clothing can guide decisions on what colors to produce or stock for a particular season.
 3- we can use color information to study changes in ecosystems, identify pollution levels, or track the health of plants based on leaf color. 
-and many more use cases .
+and many more use cases .'''
